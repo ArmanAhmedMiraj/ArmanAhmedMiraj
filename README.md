@@ -14,7 +14,7 @@
 <div align="center"><img src="assets/stats.svg" alt="Live GitHub activity" width="100%"/></div>
 
 <!--UPDATED_START-->
-_Waiting for the first daily update._
+<sub>Last refreshed automatically: **22 Nov 2026, 00:52** (Asia/Dhaka)</sub>
 <!--UPDATED_END-->
 
 ## About me
@@ -44,13 +44,27 @@ _Waiting for the first daily update._
 ## Recently updated repositories
 
 <!--REPOS_START-->
-_Waiting for the first daily update._
+| Repository | About | Language | Stars |
+| --- | --- | --- | --- |
+| **[ArmanAhmedMiraj](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj)** |  | JavaScript | ⭐ 0 |
+| **[EarthEcho](https://github.com/ArmanAhmedMiraj/EarthEcho)** |  | JavaScript | ⭐ 1 |
+| **[upay-trustflow](https://github.com/ArmanAhmedMiraj/upay-trustflow)** |  | Python | ⭐ 0 |
+| **[aidevfest-tender-package-builder](https://github.com/ArmanAhmedMiraj/aidevfest-tender-package-builder)** |  | JavaScript | ⭐ 0 |
+| **[SmartEscape](https://github.com/ArmanAhmedMiraj/SmartEscape)** |  | JavaScript | ⭐ 0 |
+| **[upay-shield](https://github.com/ArmanAhmedMiraj/upay-shield)** |  | JavaScript | ⭐ 0 |
 <!--REPOS_END-->
 
 ## Latest commits
 
 <!--COMMITS_START-->
-_Waiting for the first daily update._
+| When | Repo | What changed |
+| --- | --- | --- |
+| 22 Nov 2026, 00:49 | `ArmanAhmedMiraj` | [Add GitHub Actions workflow for contribution snake](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj/commit/1fcf5d39041aa2ac49e83db7f9b895d44b47125a) |
+| 22 Nov 2026, 00:49 | `ArmanAhmedMiraj` | [Add GitHub Actions workflow to update profile](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj/commit/f034c722b2e2cb02f15690fbaa7a1cf869fdc955) |
+| 22 Nov 2026, 00:48 | `ArmanAhmedMiraj` | [Add files via upload](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj/commit/9739383c8289725e0d0e974ec5f4c741197fdda9) |
+| 22 Nov 2026, 00:45 | `ArmanAhmedMiraj` | [Revise README with personal and project details](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj/commit/a065e23f91dabe88a74b21565c8c512b0c93adb7) |
+| 21 Nov 2026, 04:53 | `EarthEcho` | [Use a Groq model the account can access in the agent](https://github.com/ArmanAhmedMiraj/EarthEcho/commit/4bb6612835441196d417e6025c2187680dd055df) |
+| 21 Nov 2026, 04:40 | `EarthEcho` | [Add farm advisor agent, data explorer page, Dependabot and weekly health check](https://github.com/ArmanAhmedMiraj/EarthEcho/commit/b39edbc03d77022246de340166257797be743a3d) |
 <!--COMMITS_END-->
 
 <div align="center">
