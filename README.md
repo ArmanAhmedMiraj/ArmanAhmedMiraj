@@ -14,7 +14,7 @@
 <div align="center"><img src="assets/stats.svg" alt="Live GitHub activity" width="100%"/></div>
 
 <!--UPDATED_START-->
-<sub>Last refreshed automatically: **24 Nov 2026, 10:02** (Asia/Dhaka)</sub>
+<sub>Last refreshed automatically: **25 Nov 2026, 08:44** (Asia/Dhaka)</sub>
 <!--UPDATED_END-->
 
 ## About me
