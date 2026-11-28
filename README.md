@@ -14,7 +14,7 @@
 <div align="center"><img src="assets/stats.svg" alt="Live GitHub activity" width="100%"/></div>
 
 <!--UPDATED_START-->
-<sub>Last refreshed automatically: **27 Nov 2026, 07:53** (Asia/Dhaka)</sub>
+<sub>Last refreshed automatically: **28 Nov 2026, 07:36** (Asia/Dhaka)</sub>
 <!--UPDATED_END-->
 
 ## About me
@@ -46,8 +46,8 @@
 <!--REPOS_START-->
 | Repository | About | Language | Stars |
 | --- | --- | --- | --- |
-| **[ArmanAhmedMiraj](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj)** |  | JavaScript | ⭐ 0 |
 | **[EarthEcho](https://github.com/ArmanAhmedMiraj/EarthEcho)** |  | JavaScript | ⭐ 1 |
+| **[ArmanAhmedMiraj](https://github.com/ArmanAhmedMiraj/ArmanAhmedMiraj)** |  | JavaScript | ⭐ 0 |
 | **[upay-trustflow](https://github.com/ArmanAhmedMiraj/upay-trustflow)** |  | Python | ⭐ 0 |
 | **[Ttender-Package-Builder](https://github.com/ArmanAhmedMiraj/Ttender-Package-Builder)** |  | JavaScript | ⭐ 0 |
 | **[SmartEscape](https://github.com/ArmanAhmedMiraj/SmartEscape)** |  | JavaScript | ⭐ 0 |
